@@ -1,0 +1,11 @@
+C:\Users\bloper\source\repos\CoffeeShop\CoffeeShop\bin\Debug\netcoreapp2.1\CoffeeShop.deps.json
+C:\Users\bloper\source\repos\CoffeeShop\CoffeeShop\bin\Debug\netcoreapp2.1\CoffeeShop.runtimeconfig.json
+C:\Users\bloper\source\repos\CoffeeShop\CoffeeShop\bin\Debug\netcoreapp2.1\CoffeeShop.runtimeconfig.dev.json
+C:\Users\bloper\source\repos\CoffeeShop\CoffeeShop\bin\Debug\netcoreapp2.1\CoffeeShop.dll
+C:\Users\bloper\source\repos\CoffeeShop\CoffeeShop\bin\Debug\netcoreapp2.1\CoffeeShop.pdb
+C:\Users\bloper\source\repos\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp2.1\CoffeeShop.csprojAssemblyReference.cache
+C:\Users\bloper\source\repos\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp2.1\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\bloper\source\repos\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp2.1\CoffeeShop.AssemblyInfoInputs.cache
+C:\Users\bloper\source\repos\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp2.1\CoffeeShop.AssemblyInfo.cs
+C:\Users\bloper\source\repos\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp2.1\CoffeeShop.dll
+C:\Users\bloper\source\repos\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp2.1\CoffeeShop.pdb
