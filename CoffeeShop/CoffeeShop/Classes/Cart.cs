@@ -6,7 +6,6 @@ namespace Store.Classes
 {
     public class Cart
     {
-
         public List<ISellable> ItemsInCart = new List<ISellable>();
 
         public void AddItemToCart(ISellable item)

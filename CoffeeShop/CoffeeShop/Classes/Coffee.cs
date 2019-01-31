@@ -24,8 +24,6 @@ namespace Store.Classes
             }
         }
 
-        
-
         private int TotalCalories
         {
             get
@@ -50,7 +48,7 @@ namespace Store.Classes
         {
             decimal result = 1.5m;
 
-            if(Size.ToString() == "medium")
+            if(Size.ToLower() == "medium")
             {
                 result = 2.5m;
             } else if(Size.ToLower() == "large")
@@ -63,7 +61,7 @@ namespace Store.Classes
 
         public override string CartDisplayInfo()
         {
-            return $"Coffee Size: {Size}\nTotal Calories: {TotalCalories}\nCost: {Cost.ToString("C")}";
+            return $"Coffee Size: {Size}\nTotal Calories: {TotalCalories}\nCost: {Cost.ToString("C")}\n";
         }
 
     }

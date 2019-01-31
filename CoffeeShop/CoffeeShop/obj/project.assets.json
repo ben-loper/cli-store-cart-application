@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bloper\\source\\repos\\CoffeeShop\\CoffeeShop\\Store.csproj",
+      "projectUniqueName": "C:\\workspace\\Side Projects\\cli-store-cart-application\\CoffeeShop\\CoffeeShop\\Store.csproj",
       "projectName": "Store",
-      "projectPath": "C:\\Users\\bloper\\source\\repos\\CoffeeShop\\CoffeeShop\\Store.csproj",
+      "projectPath": "C:\\workspace\\Side Projects\\cli-store-cart-application\\CoffeeShop\\CoffeeShop\\Store.csproj",
       "packagesPath": "C:\\Users\\bloper\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bloper\\source\\repos\\CoffeeShop\\CoffeeShop\\obj\\",
+      "outputPath": "C:\\workspace\\Side Projects\\cli-store-cart-application\\CoffeeShop\\CoffeeShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

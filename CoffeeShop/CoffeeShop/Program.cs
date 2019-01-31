@@ -13,12 +13,26 @@ namespace CoffeeShop
             Book passionateProgrammer = new Book(191, "Chad Fowler", "05/28/2009", 9.99m, "The Passionate Programmer");
             AudioBook mistborn = new AudioBook("Mistborn: The Final Empire", 44.99m, 1440, "Brandon Sanders", "Micael Kramer");
             Coffee smallCoffee = new Coffee("Small");
-            
+            Coffee mediumCoffee = new Coffee("Medium");
+            Coffee largeCoffee = new Coffee("Large");
+            Magazine foodNetwork = new Magazine("Food Network", 3.99m, 777);
+            Scone scone = new Scone(true, true);
+            Scone boringScone = new Scone(false, false);
+            Scone chocolateScone = new Scone(false, true);
+            Scone whipCreamScone = new Scone(true, false);
+
 
             cart.AddItemToCart(cleanCoding);
             cart.AddItemToCart(passionateProgrammer);
             cart.AddItemToCart(mistborn);
             cart.AddItemToCart(smallCoffee);
+            cart.AddItemToCart(mediumCoffee);
+            cart.AddItemToCart(largeCoffee);
+            cart.AddItemToCart(foodNetwork);
+            cart.AddItemToCart(scone);
+            cart.AddItemToCart(boringScone);
+            cart.AddItemToCart(chocolateScone);
+            cart.AddItemToCart(whipCreamScone);
 
             decimal grandTotal = 0;
 

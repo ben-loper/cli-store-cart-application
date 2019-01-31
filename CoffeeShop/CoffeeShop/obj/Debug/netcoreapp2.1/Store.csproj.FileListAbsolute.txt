@@ -9,3 +9,14 @@ C:\Users\bloper\source\repos\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp2.1\Store
 C:\Users\bloper\source\repos\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp2.1\Store.AssemblyInfo.cs
 C:\Users\bloper\source\repos\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp2.1\Store.dll
 C:\Users\bloper\source\repos\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp2.1\Store.pdb
+C:\workspace\Side Projects\cli-store-cart-application\CoffeeShop\CoffeeShop\bin\Debug\netcoreapp2.1\Store.deps.json
+C:\workspace\Side Projects\cli-store-cart-application\CoffeeShop\CoffeeShop\bin\Debug\netcoreapp2.1\Store.runtimeconfig.json
+C:\workspace\Side Projects\cli-store-cart-application\CoffeeShop\CoffeeShop\bin\Debug\netcoreapp2.1\Store.runtimeconfig.dev.json
+C:\workspace\Side Projects\cli-store-cart-application\CoffeeShop\CoffeeShop\bin\Debug\netcoreapp2.1\Store.dll
+C:\workspace\Side Projects\cli-store-cart-application\CoffeeShop\CoffeeShop\bin\Debug\netcoreapp2.1\Store.pdb
+C:\workspace\Side Projects\cli-store-cart-application\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp2.1\Store.csprojAssemblyReference.cache
+C:\workspace\Side Projects\cli-store-cart-application\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp2.1\Store.csproj.CoreCompileInputs.cache
+C:\workspace\Side Projects\cli-store-cart-application\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp2.1\Store.AssemblyInfoInputs.cache
+C:\workspace\Side Projects\cli-store-cart-application\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp2.1\Store.AssemblyInfo.cs
+C:\workspace\Side Projects\cli-store-cart-application\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp2.1\Store.dll
+C:\workspace\Side Projects\cli-store-cart-application\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp2.1\Store.pdb

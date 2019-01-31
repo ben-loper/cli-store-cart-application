@@ -20,7 +20,7 @@ namespace Store.Classes
 
         public override string CartDisplayInfo()
         {
-            return $"Title: {Title}\nAurthor: {Author}\nDate Published: {DatePublished}\nCost: {Cost.ToString("C")}\n";
+            return $"Book Title: {Title}\nAurthor: {Author}\nDate Published: {DatePublished}\nCost: {Cost.ToString("C")}\n";
         }
     }
 }
